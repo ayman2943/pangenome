@@ -198,7 +198,7 @@ Cloud (<15%): 2,500        ← Rare genes
 
 - 📖 Full guide: [README.md](README.md)
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/pangenome-analysis-pipeline/issues)
-- 📧 Email: your.email@example.com
+- 📧 Email: aymanbin2943@gmail.com
 
 ## Success!
 
