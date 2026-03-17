@@ -606,9 +606,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-## 👥 Authors
-
-- **Your Name** - *Initial work*
 
 ## 🙏 Acknowledgments
 
@@ -620,7 +617,7 @@ Contributions welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guideli
 ## 📞 Contact
 
 - GitHub Issues: [https://github.com/yourusername/pangenome-analysis-pipeline/issues](https://github.com/yourusername/pangenome-analysis-pipeline/issues)
-- Email: your.email@example.com
+- Email: aymanbin2943@gmail.com
 
 ---
 
