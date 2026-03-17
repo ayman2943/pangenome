@@ -562,10 +562,10 @@ If you use this pipeline in your research, please cite:
 
 ```bibtex
 @software{pangenome_pipeline_2025,
-  author = {Your Name},
+  author = {Ayman Bin Abdul Mannan},
   title = {Bacterial Pangenome Analysis Pipeline},
   year = {2025},
-  url = {https://github.com/yourusername/pangenome-analysis-pipeline},
+  url = {https://github.com/ayman2943/pangenome-analysis-pipeline},
   version = {1.0.0}
 }
 ```
@@ -602,9 +602,6 @@ And cite the tools used:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-Contributions welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 
 ## 🙏 Acknowledgments
